@@ -4,7 +4,7 @@
 **Method:** automated browser testing in headless Chrome 155 (puppeteer-core, installed in a temporary scratch folder, not in the project), plus visual review of every screenshot. Evidence is in [phase-2-qa-screenshots/](phase-2-qa-screenshots/).
 Plan and design decisions are in [phase-2-implementation-plan.md](phase-2-implementation-plan.md).
 
-Nothing was pushed, deployed or published. There is no git repository in the workspace.
+**Deployed with the owner's approval (2026-10-17):** GitHub https://github.com/harini305/spirit-sound · live at **https://spirit-sound.vercel.app**. The live site was re-tested: all four routes 200; legacy URLs 308 → /; unknown URL 404; robots/sitemap/icons/media 200 with year-long caching; **29/29 functional checks, 12/12 no-scroll visibility and 7/7 links-open-at-top pass against the live URL**.
 
 > **Revision 2 (layout pass after review).** The hero is now full-bleed and fills the screen below the header. The content container widened from 1320px to 1560px and section spacing tightened. The Home collection, gallery and visit blocks, the Collection plates, the Our Journey opening and the Contact map were re-aligned to one grid. A 1080p hero rendition was added for wide screens. A CSS Modules bug was fixed: selectors such as `.details .frame` silently never matched global classes, so they now use `:global()`. All figures below are from the **re-tested** build.
 >

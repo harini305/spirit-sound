@@ -262,3 +262,10 @@ Feedback: the full-bleed photo with overlaid title felt too simple and left empt
 
 - The full-bleed "Silence is not empty. It is where everything begins." band was removed from Our Journey at the reviewer's request. Its markup, its CSS and the `journey.quote` content entry are deleted. The page now runs: opening split → "When Sound Became Something More / Quiet Reflection" split → Living With Sound → Space to Experience.
 - Regression: 29/29 functional checks, 12/12 no-scroll visibility checks, 32 page/width layout checks with 0 issues, and Our Journey's final section + footer still fill exactly one screen at all 5 desktop sizes.
+
+## 21. Deployment (2026-10-17) — approved by the owner
+
+- **GitHub:** https://github.com/harini305/spirit-sound (branch `main`). Excluded from the repo (kept on local disk): the 53 MB 4K master video and the QA/audit screenshot folders. `.env*` files are never committed.
+- **Vercel:** project `harini-658e/spirit-sound`, Next.js preset, connected to the GitHub repo, so pushes to `main` deploy to production. Public production URL: **https://spirit-sound.vercel.app**. Per-deployment URLs keep Vercel's default Standard Protection (login required). Only the production domain is public.
+- **Upload contents:** `.vercelignore` leaves out `docs/`, `scripts/`, the README and `.env.example`. Everything served comes from `public/media` (35 files, 5.6 MB, all referenced by the site: WebP photos at display sizes, two compressed hero video renditions, 3 posters, 2 logo marks, 4 OG images) plus the Next.js build.
+- **Not configured** (owner action): `NEXT_PUBLIC_CONTACT_ENDPOINT` (the form says it can't send yet and offers email/WhatsApp), `NEXT_PUBLIC_GA_ID` (analytics off), the custom domain `spiritsoundbali.com` (DNS unchanged; canonical URLs already point to it).
