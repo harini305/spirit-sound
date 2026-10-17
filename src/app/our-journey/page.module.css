@@ -1,0 +1,161 @@
+/* ---------- Opening (full-bleed split) ---------- */
+.opening {
+  display: grid;
+  border-bottom: 1px solid var(--line);
+}
+.openingBody {
+  display: grid;
+  align-content: center;
+  gap: var(--space-8);
+  padding: var(--space-8) var(--gutter) var(--space-9);
+}
+.openingText {
+  display: grid;
+  gap: var(--space-5);
+  max-width: 38rem;
+}
+.began {
+  display: grid;
+  gap: var(--space-4);
+  max-width: var(--measure);
+  padding-top: var(--space-6);
+  border-top: 1px solid var(--taupe);
+}
+.began h2 {
+  margin-bottom: var(--space-2);
+}
+.portrait {
+  aspect-ratio: 4 / 3;
+  border-radius: 0;
+}
+@media (min-width: 900px) {
+  .opening {
+    grid-template-columns: 1fr 1fr;
+    min-height: calc(100svh - var(--header-h));
+  }
+  .openingBody {
+    /* text on grid columns 1–6, inner edge padded like the other split panels */
+    padding-inline: var(--gutter) var(--split-inset);
+  }
+  .portrait {
+    aspect-ratio: auto;
+    height: 100%;
+  }
+}
+
+/* ---------- More + reflection (full-bleed split: photograph left, text panel right) ---------- */
+.more {
+  display: grid;
+  background: var(--paper-deep);
+}
+.moreMedia {
+  aspect-ratio: 4 / 3;
+  border-radius: 0;
+}
+.moreBody {
+  display: grid;
+  align-content: center;
+  gap: var(--space-5);
+  padding: var(--space-8) var(--gutter);
+}
+.moreBody > * {
+  max-width: 40rem;
+}
+.moreText {
+  font-family: var(--font-serif), Georgia, serif;
+  font-size: clamp(1.125rem, 1.05rem + 0.3vw, 1.375rem);
+  line-height: 1.65;
+  color: var(--ink);
+}
+.reflection {
+  display: grid;
+  gap: var(--space-3);
+  margin-top: var(--space-3);
+  padding-top: var(--space-5);
+  border-top: 1px solid var(--taupe);
+}
+@media (min-width: 900px) {
+  .more {
+    grid-template-columns: 1fr 1fr;
+    min-height: clamp(30rem, 42vw, 46rem);
+  }
+  .moreMedia {
+    aspect-ratio: auto;
+    height: 100%;
+  }
+  .moreBody {
+    padding-inline: var(--split-inset) var(--gutter); /* text starts on grid column 8 */
+  }
+}
+
+/* ---------- Living with sound ---------- */
+.living > div {
+  row-gap: var(--space-7);
+}
+.pillars {
+  display: grid;
+  gap: var(--space-6);
+}
+.pillars li {
+  display: grid;
+  gap: var(--space-3);
+  align-content: start;
+  padding-top: var(--space-4);
+  border-top: 1px solid var(--taupe);
+}
+.pillarTitle {
+  font-size: var(--fs-h3);
+}
+@media (min-width: 600px) {
+  .pillars {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+@media (min-width: 900px) {
+  .livingTitle {
+    grid-column: 1 / 4;
+  }
+  .pillars {
+    grid-column: 4 / 13;
+  }
+}
+
+/* ---------- Space to experience ---------- */
+.space {
+  padding-block: var(--space-8);
+  background: var(--paper-deep);
+}
+.space > div {
+  row-gap: var(--space-7);
+  align-items: center;
+}
+.spacePair {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: var(--col-gap);
+  margin: 0;
+}
+.spacePair :global(.frame) {
+  aspect-ratio: 1 / 1;
+  max-width: 40.625rem; /* the visitors photo is 40.625rem wide — never shown larger */
+}
+.spaceText {
+  display: grid;
+  gap: var(--space-4);
+  align-content: start;
+  max-width: var(--measure);
+}
+.spaceText h2 {
+  margin-bottom: var(--space-2);
+}
+.spaceText :global(.actions) {
+  margin-top: var(--space-4);
+}
+@media (min-width: 900px) {
+  .spacePair {
+    grid-column: 1 / 7;
+  }
+  .spaceText {
+    grid-column: 8 / 13;
+  }
+}

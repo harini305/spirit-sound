@@ -1,0 +1,97 @@
+TITLE: Sound Healing Ubud | Singing Bowls & Sacred Instruments Bali
+META: <meta name="description" content="Explore a unique collection of singing bowls and sacred instruments in Ubud, Bali. Experience the power of sound healing at The Spirit Sound Gallery." />
+META: <meta property="og:locale" content="en_US" />
+META: <meta property="og:type" content="website" />
+META: <meta property="og:title" content="Sound Healing Ubud | Singing Bowls &amp; Sacred Instruments Bali" />
+META: <meta property="og:description" content="Explore a unique collection of singing bowls and sacred instruments in Ubud, Bali. Experience the power of sound healing at The Spirit Sound Gallery." />
+META: <meta property="og:url" content="https://spiritsoundbali.com/" />
+META: <meta property="og:site_name" content="The Spirit Sound Gallery" />
+META: <meta name="twitter:card" content="summary_large_image" />
+LINK: <link rel="canonical" href="https://spiritsoundbali.com/" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-32x32.png" sizes="32x32" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-192x192.png" sizes="192x192" />
+LINK: <link rel="apple-touch-icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-180x180.png" />
+LDJSON: {"@context":"https:\/\/schema.org","@graph":[{"@type":"WebPage","@id":"https:\/\/spiritsoundbali.com\/","url":"https:\/\/spiritsoundbali.com\/","name":"Sound Healing Ubud | Singing Bowls & Sacred Instruments Bali","isPartOf":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website"},"about":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization"},"datePublished":"2026-04-20T08:03:29+00:00","dateModified":"2026-06-24T05:50:34+00:00","description":"Explore a unique collection of singing bowls and sacred instruments in Ubud, Bali. Experience the power of sound healing at The Spirit Sound Gallery.","breadcrumb":{"@id":"https:\/\/spiritsoundbali.com\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/spiritsoundbali.com\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/spiritsoundbali.com\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website","url":"https:\/\/azure-bison-590473.hostingersite.com\/","name":"Spirit Sound Bali","description":"Spiritual Sound Healing and Singing Bowl Art Gallery in Bali","publisher":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/azure-bison-590473.hostingersite.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization","name":"Spirit Sound Bali","url":"https:\/\/azure-bison-590473.hostingersite.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/","url":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","contentUrl":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","width":2000,"height":2000,"caption":"Spirit Sound Bali"},"image":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.instagram.com\/spiritsoundubud\/"]}]}
+ [A href=#content target=None]  Skip to content[/A]
+##### ELEMENTOR header id=319
+--- container e3edc65 
+--- container 623f38a 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-Black.png alt='The Spirit Sound Gallery Official Black Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> [A href=https://spiritsoundbali.com/ target=None]  THE SPIRIT SOUND GALLERY[/A] |
+--- container 8744233 
+  [w:nav-menu.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] | [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container 6670c41 
+  [w:button.default] [A href=https://wa.me/628123944292 target=None]  WhatsApp[/A] |
+##### ELEMENTOR wp-page id=20
+--- container cdb926f 
+  VIDEO {'class': 'elementor-background-video-hosted', 'role': 'presentation', 'autoplay': None, 'muted': None, 'playsinline': None, 'loop': None} |
+--- container 610baa2 
+  [w:text-editor.default] THE SPIRIT SOUND GALLERY |
+  [w:heading.default]
+<h1> Where Sound Becomes Experience | Discover a curated collection of Singing Bowls, Gongs, and Sound Healing instruments in Ubud - Bali, thoughtfully selected to support your personal journey through meditation, mindfulness, and sacred sound. |
+  [w:button.default] [A href=https://spiritsoundbali.com/product/ target=None]  Explore the Collection[/A] | ★★★★★ | EXPERIENCE TRANQUILITY WITH OUR INSTRUMENTS |
+--- container 94bfbc6 
+--- container 107ea55  |
+--- container 3725670 
+  [w:heading.default]
+<h2> Journey Guided by Sound | The Spirit Sound Gallery began as a personal exploration into the world of sound and awareness. What started as curiosity gradually unfolded into a deeper understanding of how vibration can influence presence, balance, and connection. Today, we offer a curated selection of singing bowls, gongs, and sound healing instruments, chosen not only for their form, but for the feeling they carry. |
+  [w:button.default] [A href=https://spiritsoundbali.com/our-journey/ target=None]  Read Our Story[/A] |
+--- container 0063d8c 
+  [w:heading.default]
+<h2> Thoughtfully Curated Collection | Each piece is selected with intention, focusing on quality, character, and resonance, supporting both meditation and sound healing practices. |
+--- container 094a33c 
+--- container d099ec5 
+  [w:heading.default]
+<h3> Singing Bowls |
+  [w:text-editor.default] Grounding tones for meditation and inner awareness. |
+--- container 9bef8fe 
+  [w:heading.default]
+<h3> Genta |
+  [w:text-editor.default] Expansive vibrations that transform space and energy. |
+--- container 175b542 
+  [w:heading.default]
+<h3> Accessories |
+  [w:text-editor.default] Supporting tools to complete your sound experience. |
+  [w:button.default] [A href=https://spiritsoundbali.com/product/ target=None]  View All Products[/A] |
+--- container a027cdc 
+  [w:slides.default] | Amelia Thompson | ★★★★★ “A calm and meaningful place. I found an instrument that truly resonates with my practice.” | Daniel Schneider | ★★★★★ “Beautiful collection and a very welcoming space. I was able to explore the instruments and find what feels right for me.” | Lena Hoffmann | ★★★★★ “A unique experience in Ubud. The atmosphere is peaceful, and the instruments feel authentic and carefully selected.” | Michael Carter | ★★★★★ “You can really take your time here. I appreciated being able to try different singing bowls and feel the difference.” | Sofia Martinez | ★★★★★ “A simple yet special place. It’s not just about buying, but about connecting with the sound.” |
+--- container 6012093 
+  [w:heading.default]
+<h2> Experience the Sound in Presence | Visitors are welcome to explore and feel the instruments directly in our space. Each interaction becomes a quiet moment of discovery and connection. |
+  [w:gallery.default] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/contact-mePxLLj1goco0eD5.jpg target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/whatsapp-image-2022-07-28-at-10.56.14-2-mnlW35R4MqCpaEDZ.jpg target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/06/ganesha-m5KMvr1kD9IrGX01.avif target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/bowl2-YBg7pyNw81T0NPJR.avif target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/genta-AE0PpvJWXpHX7rlo.avif target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/whatsapp-image-2022-07-28-at-10.56.14-m6LZvrB2n1IEjbQn.jpg target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/lakshmi-mk3vD5RGMZHqe4NQ.avif target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/singing-YleWM5RbVMilQZlq.jpg target=None]  |[/A] [A href=https://spiritsoundbali.com/wp-content/uploads/2026/05/ganesh-A85eprO9q1h3EDK1.jpg target=None]  |[/A] |
+--- container aac5ec3 
+--- container e2328f3 
+--- container 1ec6563 
+  [w:heading.default]
+<h2> Visit Our Space in Ubud | Located in the heart of Ubud, our space offers a calm and welcoming environment for those who wish to explore sound more closely. We invite you to visit, take your time, and experience the instruments in a simple and personal way. Address Jl. Hanoman No.65, Padang Tegal Kelod, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571 Contact +62 812-394-4292 domagoes@gmail.com |
+--- container 32c9764 
+  [w:google_maps.default]
+  IFRAME {'loading': 'lazy', 'src': 'https://maps.google.com/maps?q=The%20Spirit%20Sound%20Gallery&t=m&z=14&output=embed&iwloc=near', 'title': 'The Spirit Sound Gallery', 'aria-label': 'The Spirit Sound Gallery'} |
+--- container 4570e75 
+  [w:heading.default]
+<h2> Discover the Sound That Resonates With You | Take your time to explore our collection, or visit our space in Ubud to experience the instruments in person. |
+  [w:button.default] [A href=https://wa.me/628123944292 target=None]  Explore the Collection[/A] |
+##### ELEMENTOR footer id=368
+--- container 8acbbb5 
+--- container 43abd32 
+--- container 8af74ed 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-White.png alt='The Spirit Sound Gallery Official White Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> The Spirit Sound Gallery |
+  [w:text-editor.default] Curated singing bowls, gongs, and sacred sound instruments in Ubud – Bali, thoughtfully selected to support mindfulness, meditation, and personal exploration through sound. |
+--- container 053e526 
+  [w:heading.default]
+<h2> Explore |
+  [w:icon-list.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Products[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container c3b0cc5 
+  [w:heading.default]
+<h2> Visit Our Space |
+  [w:text-editor.default] Jl. Hanoman No.65 Ubud, Bali |
+  [w:text-editor.default] [A href=https://wa.me/628123944292 target=None]  +62 812 394 4292[/A] | [A href=mailto:domagoes@gmail.com target=None]  domagoes@gmail.com[/A] |
+  [w:social-icons.default] [A href=https://wa.me/628123944292 target=_blank]  Whatsapp[/A] [A href=mailto:domagoes@gmail.com target=_blank]  Envelope[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Instagram[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Facebook[/A] [A href=https://www.tripadvisor.com/Attraction_Review-g297701-d26133928-Reviews-The_Spirit_Sound_Gallery_Bali-Ubud_Gianyar_Regency_Bali.html target=_blank]  Tripadvisor[/A] |
+  [w:divider.default] |
+  [w:text-editor.default] © 2026 The Spirit Sound Gallery. All rights reserved. |
+--- container e6f3153  |

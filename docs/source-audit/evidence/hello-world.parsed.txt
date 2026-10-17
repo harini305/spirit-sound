@@ -1,0 +1,60 @@
+TITLE: Hello world! - The Spirit Sound Gallery
+META: <meta property="og:locale" content="en_US" />
+META: <meta property="og:type" content="article" />
+META: <meta property="og:title" content="Hello world! - The Spirit Sound Gallery" />
+META: <meta property="og:description" content="Welcome to WordPress. This is your first post. Edit or delete it, then start writing!" />
+META: <meta property="og:url" content="https://azure-bison-590473.hostingersite.com/hello-world/" />
+META: <meta property="og:site_name" content="The Spirit Sound Gallery" />
+META: <meta name="twitter:card" content="summary_large_image" />
+META: <meta name="twitter:label1" content="Written by" />
+META: <meta name="twitter:data1" content="deksy.dextiro13@gmail.com" />
+LINK: <link rel="canonical" href="https://azure-bison-590473.hostingersite.com/hello-world/" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-32x32.png" sizes="32x32" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-192x192.png" sizes="192x192" />
+LINK: <link rel="apple-touch-icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-180x180.png" />
+LDJSON: {"@context":"https:\/\/schema.org","@graph":[{"@type":"Article","@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/#article","isPartOf":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/"},"author":{"name":"deksy.dextiro13@gmail.com","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/person\/ebe74439412ce675ceb32df9b7d2aa25"},"headline":"Hello world!","datePublished":"2026-04-18T06:32:06+00:00","mainEntityOfPage":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/"},"wordCount":17,"commentCount":4,"publisher":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization"},"articleSection":["Blog"],"inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/#respond"]}]},{"@type":"WebPage","@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/","url":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/","name":"Hello world! - The Spirit Sound Gallery","isPartOf":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website"},"datePublished":"2026-04-18T06:32:06+00:00","breadcrumb":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/"]}]},{"@type":"BreadcrumbList","@id":"https:\/\/azure-bison-590473.hostingersite.com\/hello-world\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/spiritsoundbali.com\/"},{"@type":"ListItem","position":2,"name":"Hello world!"}]},{"@type":"WebSite","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website","url":"https:\/\/azure-bison-590473.hostingersite.com\/","name":"Spirit Sound Bali","description":"Spiritual Sound Healing and Singing Bowl Art Gallery in Bali","publisher":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/azure-bison-590473.hostingersite.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization","name":"Spirit Sound Bali","url":"https:\/\/azure-bison-590473.hostingersite.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/","url":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","contentUrl":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","width":2000,"height":2000,"caption":"Spirit Sound Bali"},"image":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.i
+ [A href=#content target=None]  Skip to content[/A]
+##### ELEMENTOR header id=319
+--- container e3edc65 
+--- container 623f38a 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-Black.png alt='The Spirit Sound Gallery Official Black Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> [A href=https://spiritsoundbali.com/ target=None]  THE SPIRIT SOUND GALLERY[/A] |
+--- container 8744233 
+  [w:nav-menu.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] | [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container 6670c41 
+  [w:button.default] [A href=https://wa.me/628123944292 target=None]  WhatsApp[/A] |
+<h1> Hello world! | Welcome to WordPress. This is your first post. Edit or delete it, then start writing! |
+<h2> 4 Responses | [A href=https://wordpress.org/ target=None]  A WordPress Commenter[/A] says: | [A href=https://spiritsoundbali.com/hello-world/#comment-1 target=None]  April 18, 2026 at 6:32 am[/A] | Hi, this is a comment. To get started with moderating, editing, and deleting comments, please visit the Comments screen in the dashboard. Commenter avatars come from [A href=https://gravatar.com/ target=None]  Gravatar[/A] . | [A href=https://letco.vn target=None]  Rachel Green[/A] says: | [A href=https://spiritsoundbali.com/hello-world/#comment-2 target=None]  August 16, 2026 at 10:01 pm[/A] | Cảm ơn thông tin bổ ích. Nếu bạn quan tâm du học Hàn Quốc, Letco chuyên tư vấn lộ trình, chọn trường và xin visa với tỷ lệ đậu cao. Xem chi tiết tại [A href=https://letco.vn target=None]  letco.vn[/A] . | [A href=https://cwwp.sublimarte.net/ target=None]  Jessica Lee[/A] says: | [A href=https://spiritsoundbali.com/hello-world/#comment-3 target=None]  August 20, 2026 at 6:32 pm[/A] | Really helpful, thank you. On a related note. Whenever someone I know is job hunting, I point them to [A href=https://cwwp.sublimarte.net/ target=None]  https://cwwp.sublimarte.net/[/A] . It’s a listings platform where listings stay up to date — browse by city and company in seconds. | [A href=https://bhgm.x533863.com/ target=None]  Jessica Lee[/A] says: | [A href=https://spiritsoundbali.com/hello-world/#comment-4 target=None]  August 21, 2026 at 10:02 am[/A] | Enjoyed every bit of this. Whenever someone I know is job hunting, I send them [A href=https://bhgm.x533863.com/ target=None]  https://bhgm.x533863.com/[/A] . It’s a careers site where the search actually works — narrow down by salary and title without the hassle. |
+<h2> Leave a Reply |
+  FORM name=None type=None placeholder=None required=None action=https://spiritsoundbali.com/wp-comments-post.php Your email address will not be published. Required fields are marked * | Comment *
+  TEXTAREA name=comment type=None placeholder=None required=True action=None | Name
+  INPUT name=author type=text placeholder=None required=None action=None | Email
+  INPUT name=email type=email placeholder=None required=None action=None | Website
+  INPUT name=url type=url placeholder=None required=None action=None |
+  INPUT name=submit type=submit placeholder=None required=None action=None
+  INPUT name=comment_post_ID type=hidden placeholder=None required=None action=None
+  INPUT name=comment_parent type=hidden placeholder=None required=None action=None |
+##### ELEMENTOR footer id=368
+--- container 8acbbb5 
+--- container 43abd32 
+--- container 8af74ed 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-White.png alt='The Spirit Sound Gallery Official White Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> The Spirit Sound Gallery |
+  [w:text-editor.default] Curated singing bowls, gongs, and sacred sound instruments in Ubud – Bali, thoughtfully selected to support mindfulness, meditation, and personal exploration through sound. |
+--- container 053e526 
+  [w:heading.default]
+<h2> Explore |
+  [w:icon-list.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Products[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container c3b0cc5 
+  [w:heading.default]
+<h2> Visit Our Space |
+  [w:text-editor.default] Jl. Hanoman No.65 Ubud, Bali |
+  [w:text-editor.default] [A href=https://wa.me/628123944292 target=None]  +62 812 394 4292[/A] | [A href=mailto:domagoes@gmail.com target=None]  domagoes@gmail.com[/A] |
+  [w:social-icons.default] [A href=https://wa.me/628123944292 target=_blank]  Whatsapp[/A] [A href=mailto:domagoes@gmail.com target=_blank]  Envelope[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Instagram[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Facebook[/A] [A href=https://www.tripadvisor.com/Attraction_Review-g297701-d26133928-Reviews-The_Spirit_Sound_Gallery_Bali-Ubud_Gianyar_Regency_Bali.html target=_blank]  Tripadvisor[/A] |
+  [w:divider.default] |
+  [w:text-editor.default] © 2026 The Spirit Sound Gallery. All rights reserved. |
+--- container e6f3153  |

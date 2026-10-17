@@ -1,0 +1,48 @@
+TITLE: Blog Archives - The Spirit Sound Gallery
+META: <meta property="og:locale" content="en_US" />
+META: <meta property="og:type" content="article" />
+META: <meta property="og:title" content="Blog Archives - The Spirit Sound Gallery" />
+META: <meta property="og:url" content="https://azure-bison-590473.hostingersite.com/category/blog/" />
+META: <meta property="og:site_name" content="The Spirit Sound Gallery" />
+META: <meta name="twitter:card" content="summary_large_image" />
+LINK: <link rel="canonical" href="https://azure-bison-590473.hostingersite.com/category/blog/" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-32x32.png" sizes="32x32" />
+LINK: <link rel="icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-192x192.png" sizes="192x192" />
+LINK: <link rel="apple-touch-icon" href="https://spiritsoundbali.com/wp-content/uploads/2026/04/cropped-Logo-Spirit-Sound-Putih-1-180x180.png" />
+LDJSON: {"@context":"https:\/\/schema.org","@graph":[{"@type":"CollectionPage","@id":"https:\/\/azure-bison-590473.hostingersite.com\/category\/blog\/","url":"https:\/\/azure-bison-590473.hostingersite.com\/category\/blog\/","name":"Blog Archives - The Spirit Sound Gallery","isPartOf":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website"},"breadcrumb":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/category\/blog\/#breadcrumb"},"inLanguage":"en-US"},{"@type":"BreadcrumbList","@id":"https:\/\/azure-bison-590473.hostingersite.com\/category\/blog\/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/spiritsoundbali.com\/"},{"@type":"ListItem","position":2,"name":"Blog"}]},{"@type":"WebSite","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#website","url":"https:\/\/azure-bison-590473.hostingersite.com\/","name":"Spirit Sound Bali","description":"Spiritual Sound Healing and Singing Bowl Art Gallery in Bali","publisher":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https:\/\/azure-bison-590473.hostingersite.com\/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#organization","name":"Spirit Sound Bali","url":"https:\/\/azure-bison-590473.hostingersite.com\/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/","url":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","contentUrl":"https:\/\/spiritsoundbali.com\/wp-content\/uploads\/2026\/04\/Logo-Spirit-Sound-Putih.png","width":2000,"height":2000,"caption":"Spirit Sound Bali"},"image":{"@id":"https:\/\/azure-bison-590473.hostingersite.com\/#\/schema\/logo\/image\/"},"sameAs":["https:\/\/www.instagram.com\/spiritsoundubud\/"]}]}
+ [A href=#content target=None]  Skip to content[/A]
+##### ELEMENTOR header id=319
+--- container e3edc65 
+--- container 623f38a 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-Black.png alt='The Spirit Sound Gallery Official Black Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> [A href=https://spiritsoundbali.com/ target=None]  THE SPIRIT SOUND GALLERY[/A] |
+--- container 8744233 
+  [w:nav-menu.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] | [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Product[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container 6670c41 
+  [w:button.default] [A href=https://wa.me/628123944292 target=None]  WhatsApp[/A] |
+<h1> Category: Blog |
+<h2> [A href=https://spiritsoundbali.com/hello-world/ target=None]  Hello world![/A] | Welcome to WordPress. This is your first post. Edit or delete it, then start writing! |
+##### ELEMENTOR footer id=368
+--- container 8acbbb5 
+--- container 43abd32 
+--- container 8af74ed 
+  [w:image.default] [A href=https://spiritsoundbali.com/ target=None] 
+  IMG src=https://spiritsoundbali.com/wp-content/uploads/2026/05/Logo-Spirit-Sound-White.png alt='The Spirit Sound Gallery Official White Logo' w=2000 h=2000 loading=None[/A] |
+  [w:heading.default]
+<h2> The Spirit Sound Gallery |
+  [w:text-editor.default] Curated singing bowls, gongs, and sacred sound instruments in Ubud – Bali, thoughtfully selected to support mindfulness, meditation, and personal exploration through sound. |
+--- container 053e526 
+  [w:heading.default]
+<h2> Explore |
+  [w:icon-list.default] [A href=https://spiritsoundbali.com/ target=None]  Home[/A] | [A href=https://spiritsoundbali.com/product/ target=None]  Products[/A] | [A href=https://spiritsoundbali.com/our-journey/ target=None]  Our Journey[/A] | [A href=https://spiritsoundbali.com/contact-us/ target=None]  Contact Us[/A] |
+--- container c3b0cc5 
+  [w:heading.default]
+<h2> Visit Our Space |
+  [w:text-editor.default] Jl. Hanoman No.65 Ubud, Bali |
+  [w:text-editor.default] [A href=https://wa.me/628123944292 target=None]  +62 812 394 4292[/A] | [A href=mailto:domagoes@gmail.com target=None]  domagoes@gmail.com[/A] |
+  [w:social-icons.default] [A href=https://wa.me/628123944292 target=_blank]  Whatsapp[/A] [A href=mailto:domagoes@gmail.com target=_blank]  Envelope[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Instagram[/A] [A href=https://www.instagram.com/spiritsoundubud/ target=_blank]  Facebook[/A] [A href=https://www.tripadvisor.com/Attraction_Review-g297701-d26133928-Reviews-The_Spirit_Sound_Gallery_Bali-Ubud_Gianyar_Regency_Bali.html target=_blank]  Tripadvisor[/A] |
+  [w:divider.default] |
+  [w:text-editor.default] © 2026 The Spirit Sound Gallery. All rights reserved. |
+--- container e6f3153  |

@@ -1,0 +1,46 @@
+1d822f11 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#000000
+3859048b [text-editor.default] "> THE SPIRIT SOUND GALLERY Journey Through Sound This journe"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:25px ; desktop font-weight:100 ; desktop letter-spacing:1.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:17px ; (max-width:767px) font-size:15px ; (max-width:767px) letter-spacing:2px
+12137d07 [heading.default] "> Journey Through Sound This journey began with a simple cur"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:68px ; desktop font-weight:600 ; desktop line-height:1.2em ; desktop letter-spacing:2.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:40px ; (max-width:767px) font-size:27px ; (max-width:767px) line-height:1.3em
+883c169 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+543e39fd [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#050505
+149f86ee [heading.default] "> Where It All Began The journey began quietly, without a cl"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:26px
+d2c6b8d [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+c6f461f [heading.default] "> When Sound Became Something More There was a moment when e"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:30px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; desktop color:#000000 ; (max-width:767px) font-size:26px ; (max-width:767px) line-height:1.3em
+2863182 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#0D0D0D ; desktop background-color:#000000 ; desktop/hover background-color:#000000
+2a585ca [heading.default] "> Silence is not empty. It is where everything begins. Livin"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:45px ; desktop font-weight:100 ; desktop line-height:51px ; desktop letter-spacing:1px ; desktop color:#FFFFFF ; (max-width:1024px) line-height:1.3em ; (max-width:767px) font-size:30px ; (max-width:767px) line-height:1.5em
+03ecfbe [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+ae9af7d [heading.default] "> Living With Sound Presence Sound became a way to slow down"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:26px
+2160fd6 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+cdcd2a1 [heading.default] "> Presence Sound became a way to slow down, a gentle reminde"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px
+7df68b7 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+65113ff [heading.default] "> Awareness Each tone revealed something different, not some"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px
+7dfc83a [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+a2ca5b2 [heading.default] "> Balance In the simplicity of sound, there was balance, not"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px
+04090c0 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+04c0f5d [heading.default] "> Space to Experience​ This space was never created as a pla"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:26px
+17389ff [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#050505
+bcf228e [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+2fbe8fd [heading.default] "> Quiet Reflection In the end, this journey was never about "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:30px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; desktop color:#000000 ; (max-width:767px) font-size:26px

@@ -1,0 +1,14 @@
+.notFound > div {
+  display: grid;
+  gap: var(--space-5);
+  justify-items: start;
+}
+.notFound h1,
+.notFound :global(.lead) {
+  max-width: 34rem;
+}
+.links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0 var(--space-6);
+}

@@ -1,0 +1,40 @@
+adb515b [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#000000
+3a0b726 [text-editor.default] "> THE SPIRIT SOUND GALLERY Sacred Sound Collection Explore h"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:25px ; desktop font-weight:100 ; desktop letter-spacing:1.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:17px ; (max-width:767px) font-size:15px ; (max-width:767px) letter-spacing:2px
+6a75f7c [heading.default] "> Sacred Sound Collection Explore handcrafted singing bowls,"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:68px ; desktop font-weight:600 ; desktop line-height:1.2em ; desktop letter-spacing:2.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:40px ; (max-width:767px) font-size:27px ; (max-width:767px) line-height:1.3em
+bec6de6 [button.default] "> Explore Collection THOUGHTFULLY CURATED Instruments Chosen"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:300 ; desktop color:#000000 ; desktop background-color:#FFFFFF ; desktop/hover color:#FFFFFF ; desktop/hover background-color:#020202 ; (max-width:1024px) font-size:13px
+1a663d0 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+e257713 [heading.default] "> THOUGHTFULLY CURATED Instruments Chosen With Intention Eac"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:15px ; desktop font-weight:500 ; desktop letter-spacing:2px ; desktop color:#555555 ; (max-width:767px) font-size:13px
+1d56800 [heading.default] "> Instruments Chosen With Intention Each instrument carries "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:30px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; desktop color:#000000 ; (max-width:767px) line-height:1.3em
+5eb98c4 [container] "data-e-type="container" id="collection" data-settings="{"bac"
+   desktop background-color:#FAFAFA
+df7f7e3 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+35201f1 [text-editor.default] "> SINGING BOWL Handmade Singing Bowl A handcrafted singing b"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:11px ; desktop font-weight:500 ; desktop letter-spacing:2px ; desktop color:#333333
+6aa4d26 [heading.default] "> Handmade Singing Bowl A handcrafted singing bowl carefully"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:25px ; desktop font-weight:500 ; desktop color:#1A1A1A ; (max-width:1024px) font-size:20px ; (max-width:1024px) line-height:1.3em
+ec5e642 [text-editor.default] "> A handcrafted singing bowl carefully selected for its reso"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:400 ; desktop line-height:25px ; desktop color:#555555 ; (max-width:1024px) font-size:12px
+4812c4c [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+69d44ad [text-editor.default] "> GENTA Traditional Tibetan Genta A traditional ritual bell "
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:11px ; desktop font-weight:500 ; desktop letter-spacing:2px ; desktop color:#333333
+9219148 [heading.default] "> Traditional Tibetan Genta A traditional ritual bell crafte"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:25px ; desktop font-weight:500 ; desktop color:#1A1A1A ; (max-width:1024px) font-size:20px ; (max-width:1024px) line-height:1.3em
+c7ac83f [text-editor.default] "> A traditional ritual bell crafted with intricate details, "
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:400 ; desktop line-height:25px ; desktop color:#555555 ; (max-width:1024px) font-size:12px
+a26fe33 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+9bd1a8a [text-editor.default] "> STATUE Ganesha and Others Statue A curated collection of s"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:11px ; desktop font-weight:500 ; desktop letter-spacing:2px ; desktop color:#333333
+7bdcc55 [heading.default] "> Ganesha and Others Statue A curated collection of sacred s"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:25px ; desktop font-weight:500 ; desktop color:#1A1A1A ; (max-width:1024px) font-size:20px ; (max-width:1024px) line-height:1.3em
+3e8e91f [text-editor.default] "> A curated collection of sacred statues, celebrating spirit"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:400 ; desktop line-height:25px ; desktop color:#555555 ; (max-width:1024px) font-size:12px

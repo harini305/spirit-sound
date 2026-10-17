@@ -1,0 +1,6 @@
+# Only what the Next.js build needs is uploaded to Vercel.
+docs/
+scripts/
+README.md
+.env.example
+AGENTS.md

@@ -1,0 +1,8 @@
+e3edc65 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+f4b2b33 [heading.default] "> THE SPIRIT SOUND GALLERY Home Product Our Journey Contact "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:15px ; desktop font-weight:500 ; desktop letter-spacing:1.1px
+ece18eb [nav-menu.default] "> Home Product Our Journey Contact Us Home Product Our Journ"
+   desktop background-color:#ECECEC ; desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop color:#444444 ; desktop/hover color:#000000 ; desktop color:#000000 ; (max-width:1024px) font-size:11px
+77f34a9 [button.default] "> WhatsApp THE SPIRIT SOUND GALLERY Where Sound Becomes Expe"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop background-color:#000000 ; desktop/hover background-color:#222222 ; (max-width:1024px) font-size:11px ; (max-width:767px) font-size:12px

@@ -1,0 +1,58 @@
+cdb926f [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#000000
+eb39a0b [text-editor.default] "> THE SPIRIT SOUND GALLERY Where Sound Becomes Experience Di"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:25px ; desktop font-weight:100 ; desktop letter-spacing:1.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:17px ; (max-width:767px) font-size:15px ; (max-width:767px) letter-spacing:2px
+b39823b [heading.default] "> Where Sound Becomes Experience Discover a curated collecti"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:68px ; desktop font-weight:600 ; desktop line-height:1.2em ; desktop letter-spacing:2.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:40px ; (max-width:767px) font-size:27px ; (max-width:767px) line-height:1.3em
+e970787 [button.default] "> Explore the Collection ★★★★★ EXPERIENCE TRANQUILITY WITH O"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:300 ; desktop color:#000000 ; desktop background-color:#FFFFFF ; desktop/hover color:#FFFFFF ; desktop/hover background-color:#020202 ; (max-width:1024px) font-size:13px
+94bfbc6 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+107ea55 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#050505
+a9115ee [heading.default] "> Journey Guided by Sound The Spirit Sound Gallery began as "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:26px ; (max-width:767px) line-height:1.3em
+6c59fd5 [button.default] "> Read Our Story Thoughtfully Curated Collection Each piece "
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:300 ; desktop color:#000000 ; desktop background-color:#FFFFFF ; desktop/hover color:#FFFFFF ; desktop/hover background-color:#020202 ; (max-width:1024px) font-size:13px
+0063d8c [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+a638cd8 [heading.default] "> Thoughtfully Curated Collection Each piece is selected wit"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:25px ; (max-width:767px) line-height:1.3em
+d099ec5 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#030303 ; desktop/hover background-color:#000000
+28d264f [heading.default] "> Singing Bowls Grounding tones for meditation and inner awa"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:27px ; desktop font-weight:700 ; desktop letter-spacing:0.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:20px ; (max-width:767px) font-size:25px
+8cda4d8 [text-editor.default] "> Grounding tones for meditation and inner awareness. Genta "
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:300 ; desktop color:#FFFFFF ; (max-width:1024px) font-size:12px ; (max-width:767px) font-size:14px
+9bef8fe [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#030303 ; desktop/hover background-color:#000000
+27871e4 [heading.default] "> Genta Expansive vibrations that transform space and energy"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:27px ; desktop font-weight:700 ; desktop letter-spacing:0.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:20px ; (max-width:767px) font-size:25px
+220770b [text-editor.default] "> Expansive vibrations that transform space and energy. Acce"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:300 ; desktop color:#FFFFFF ; (max-width:1024px) font-size:12px ; (max-width:767px) font-size:14px
+175b542 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#030303 ; desktop/hover background-color:#000000
+c268bba [heading.default] "> Accessories Supporting tools to complete your sound experi"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:27px ; desktop font-weight:700 ; desktop letter-spacing:0.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:20px ; (max-width:767px) font-size:25px
+be7bc5e [text-editor.default] "> Supporting tools to complete your sound experience. View A"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:300 ; desktop color:#FFFFFF ; (max-width:1024px) font-size:12px ; (max-width:767px) font-size:14px
+52c6870 [button.default] "> View All Products Amelia Thompson ★★★★★ “A calm and meanin"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:300 ; desktop color:#000000 ; desktop background-color:#FFFFFF ; desktop/hover color:#FFFFFF ; desktop/hover background-color:#020202 ; (max-width:1024px) font-size:13px
+a027cdc [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+e593943 [slides.default] "> Amelia Thompson ★★★★★ “A calm and meaningful place. I foun"
+   desktop background-color:#FFFFFF ; desktop color:#000000 ; desktop background-color:#FFFFFF00 ; desktop font-size:30px ; desktop font-weight:600 ; desktop font-family:"Times New Roman", Sans-serif ; desktop font-size:17px ; desktop font-weight:100 ; desktop letter-spacing:0.7px ; desktop font-style:italic ; (max-width:1024px) font-size:25px ; (max-width:1024px) font-size:15px
+6012093 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+03cf89c [heading.default] "> Experience the Sound in Presence Visitors are welcome to e"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:25px ; (max-width:767px) line-height:1.3em
+2d09bd2 [gallery.default] ">"
+   desktop/hover background-color:rgba(0,0,0,0.5)
+343f5f3 [heading.default] "> Visit Our Space in Ubud Located in the heart of Ubud, our "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:33px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:25px ; (max-width:767px) line-height:1.3em
+4570e75 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#F5F5F5
+03318be [heading.default] "> Discover the Sound That Resonates With You Take your time "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:30px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; desktop color:#000000 ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:25px ; (max-width:767px) line-height:1.3em
+fa00fca [button.default] "> Explore the Collection The Spirit Sound Gallery Curated si"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:300 ; desktop color:#000000 ; desktop background-color:#FFFFFF ; desktop/hover color:#FFFFFF ; desktop/hover background-color:#020202 ; (max-width:1024px) font-size:13px

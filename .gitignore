@@ -1,0 +1,20 @@
+# dependencies / build output
+node_modules/
+.next/
+out/
+*.log
+.vercel
+
+# local environment (secrets never committed — see .env.example)
+.env
+.env*.local
+
+# Next.js dev helper file
+AGENTS.md
+
+# Heavy or test-only material kept on local disk, not in the repo:
+# - 53 MB 4K master video (the site ships the optimised 720p/1080p renditions in public/media/video)
+docs/source-audit/assets/original/video/
+# - QA and audit screenshots (test evidence)
+docs/phase-2-qa-screenshots/
+docs/source-audit/screenshots/

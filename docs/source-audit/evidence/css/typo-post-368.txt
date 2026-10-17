@@ -1,0 +1,20 @@
+8acbbb5 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#0F0F0F
+a763d1c [heading.default] "> The Spirit Sound Gallery Curated singing bowls, gongs, and"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:24px ; desktop font-weight:400 ; desktop letter-spacing:1px ; desktop color:#F5F1EB ; (max-width:1024px) font-size:18px
+6a48a36 [text-editor.default] "> Curated singing bowls, gongs, and sacred sound instruments"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop line-height:2.2em ; desktop color:#B8B1A8 ; (max-width:1024px) font-size:12px
+58e4c95 [heading.default] "> Explore Home Products Our Journey Contact Us Visit Our Spa"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:24px ; desktop font-weight:400 ; desktop letter-spacing:1px ; desktop color:#F5F1EB ; (max-width:1024px) font-size:18px
+db0df56 [icon-list.default] "> Home Products Our Journey Contact Us Visit Our Space Jl. H"
+   desktop/hover color:#FFFFFF ; desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop color:#B8B1A8 ; (max-width:1024px) font-size:12px
+47ce3af [heading.default] "> Visit Our Space Jl. Hanoman No.65 Ubud, Bali +62 812 394 4"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:24px ; desktop font-weight:400 ; desktop color:#F5F1EB ; (max-width:1024px) font-size:18px
+18bc0fe [text-editor.default] "> Jl. Hanoman No.65 Ubud, Bali +62 812 394 4292 domagoes@gma"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop line-height:1.8em ; desktop color:#B8B1A8 ; (max-width:1024px) font-size:12px
+8065e43 [text-editor.default] "> +62 812 394 4292 domagoes@gmail.com Whatsapp Envelope <a c"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:14px ; desktop font-weight:400 ; desktop line-height:1.8em ; desktop color:#B8B1A8 ; (max-width:1024px) font-size:12px
+68363ab [social-icons.default] "> Whatsapp Envelope Instagram <path d="M224.1 141c-63.6 0-11"
+   desktop background-color:#B8B1A8 ; desktop color:#FFFFFF ; desktop/hover background-color:#EBEBEB
+a7588eb [text-editor.default] "> © 2026 The Spirit Sound Gallery. All rights reserved. var "
+   desktop font-family:"Inter", Sans-serif ; desktop font-size:12px ; desktop font-weight:400 ; desktop color:#FFFFFF8C ; (max-width:767px) font-size:10px

@@ -1,0 +1,38 @@
+f046b22 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#000000
+1515023 [text-editor.default] "> THE SPIRIT SOUND GALLERY Get in Touch With Us If you have "
+   desktop font-family:"Poppins", Sans-serif ; desktop font-size:25px ; desktop font-weight:100 ; desktop letter-spacing:1.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:17px ; (max-width:767px) font-size:15px ; (max-width:767px) letter-spacing:2px
+0432ba9 [heading.default] "> Get in Touch With Us If you have any questions or simply w"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:68px ; desktop font-weight:600 ; desktop line-height:1.2em ; desktop letter-spacing:2.5px ; desktop color:#FFFFFF ; (max-width:1024px) font-size:40px ; (max-width:767px) font-size:27px
+5d8c444 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+3fe6c77 [heading.default] "> A Simple Way to Connect Whether you are curious about soun"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:30px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; desktop color:#000000 ; (max-width:767px) font-size:26px ; (max-width:767px) line-height:1.3em
+53d407d [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+1a75197 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+e86bfa1 [heading.default] "> WhatsApp Reach us directly for a quicker response and pers"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:20px
+b437048 [text-editor.default] "> +62 812 3944 292 Email Send us your message and we will re"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:500 ; desktop color:#000000 ; (max-width:1024px) font-size:14px
+a92019b [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+d826447 [heading.default] "> Email Send us your message and we will respond thoughtfull"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:20px
+0e2158b [text-editor.default] "> domagoes@gmail.com Visit Us Experience the space and conne"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:500 ; desktop color:#000000
+184f6ca [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FFFFFF
+1295634 [heading.default] "> Visit Us Experience the space and connect with sound in pe"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:20px
+01825e3 [text-editor.default] "> Ubud, Bali Send Us a Message If you feel called to reach o"
+   desktop font-family:"Poppins", Sans-serif ; desktop font-weight:500 ; desktop color:#000000 ; (max-width:1024px) font-size:14px
+f8db588 [container] "data-e-type="container" data-settings="{"background_backgrou"
+   desktop background-color:#FAFAFA
+83190b6 [heading.default] "> Send Us a Message If you feel called to reach out, you can"
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:40px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:30px ; (max-width:767px) font-size:26px
+75aedba [wpforms.default] "> Please enable JavaScript in your browser to complete this "
+   desktop background-color:#FFFFFF
+53124de [heading.default] "> Visit Our Space in Ubud Located in the heart of Ubud, our "
+   desktop font-family:"Playfair Display", Sans-serif ; desktop font-size:33px ; desktop font-weight:500 ; desktop letter-spacing:0.5px ; (max-width:1024px) font-size:25px ; (max-width:767px) line-height:1.3em
